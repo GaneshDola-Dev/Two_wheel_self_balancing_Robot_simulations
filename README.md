@@ -99,13 +99,6 @@ Four major tasks were implemented and tested:
 - IMU integration for real‑time sensor feedback.
 - Performance validation with graphs and video demonstrations.
 
-📂 Repository Structure
-├── Milestone_1_Report.pdf
-├── Milestone_2_Report.pdf
-├── Milestone_3_Report.pdf
-├── README.md   ← (this file)
-
-
 
 🎥 Demonstrations
 - Challenge 1 – 3m Sprint
