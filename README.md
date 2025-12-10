@@ -46,8 +46,6 @@ Four major tasks were implemented and tested:
 • 	IMU integration for real‑time sensor feedback.
 • 	Performance validation with graphs and video demonstrations.
 
-🎥 Demonstration
-Got it 👍 — since you want to upload your Milestone 1, 2, and 3 reports into GitHub, the best way is to create a README.md (or project description) that ties them together and makes your repository recruiter‑ready. Here’s a polished content draft you can use directly in your Git repo:
 
 🚀 Two-Wheel Robot Control & Simulation (Milestones 1–3)
 📖 Overview
