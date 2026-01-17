@@ -67,4 +67,6 @@ The project is divided into three milestones, each building upon the previous on
 - Challenge 2 – Sprint + 360° Turns
 - Challenge 3 – Balancing with Weight
 - Challenge 4 – Figure 8 Path
+  
+🚀 **Videos links are available in the report "Milestone_3 _Robot_Challenges.pdf"**
 
